@@ -45,7 +45,7 @@ This application provides a chatbot that can respond to user queries, fetch real
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/nisanray/AI_ChatBot_Model
+    git clone https://github.com/nisanray/AI_ChatBot_Model_Python
     cd AI_ChatBot_Model
     ```
 
